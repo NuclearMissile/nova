@@ -1,3 +1,7 @@
+[https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project]
+
+Check this url to learn how to set up environment ⬆⬆⬆
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
